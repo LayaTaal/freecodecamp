@@ -1,2 +1,3 @@
-# freecodecamp
-FreeCodeCamp Front-End Development solutions
+# Solutions to FreeCodeCamp Projects
+
+Browse solutions to various FreeCodeCamp problems and projects.
