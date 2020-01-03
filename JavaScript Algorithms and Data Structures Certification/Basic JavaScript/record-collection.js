@@ -1,4 +1,10 @@
-// Setup
+/**
+ * You are given a JSON object representing a part of your musical album collection. 
+ * Each album has several properties and a unique id number as its key. Not all albums have complete information.
+ * 
+ * https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
+ */
+
 var collection = {
   2548: {
     album: "Slippery When Wet",

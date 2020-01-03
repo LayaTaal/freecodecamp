@@ -1,3 +1,9 @@
+/**
+ * Return an English translated sentence of the passed binary string.
+ * 
+ * https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents
+ */
+
 function binaryAgent(str) {
     var x = str.split(" ");
     var arrEng;
